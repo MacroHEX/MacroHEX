@@ -1,8 +1,11 @@
 ### Hola, soy Martín - aka MacroHEX! 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MacroHEX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=MacroHEX)
+
+## Gráfica Bonica
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacroHEX&show_icons=true&theme=dracula)](https://github.com/MacroHEX/github-readme-stats)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MacroHEX&layout=compact&show_icons=true&theme=dracula&hide=html&langs_count=10)
+
 Nota: La metrica no indica mi nivel con los lenguajes de programación, simplemente gráfica que lenguajes tengo en GitHub.
 
 ## Soy un estudiante
@@ -39,7 +42,11 @@ Nota: La metrica no indica mi nivel con los lenguajes de programación, simpleme
 ### Hi, I'm Martín - aka MacroHEX! 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MacroHEX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=MacroHEX)
+
+## Fancy Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacroHEX&show_icons=true&theme=dracula)](https://github.com/MacroHEX/github-readme-stats)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MacroHEX&layout=compact&show_icons=true&theme=dracula&hide=html&langs_count=10)
+
 Note: This metric does not indicate my level with the programming langauges, simply graph wich languages I have in GitHub.
 
 ## I'm an student
