@@ -37,7 +37,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MacroHEX?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=MacroHEX)
 
-## Soy un estudiante
+## I'm an student
 
 - 🔭 Currently taking an introductory C# course
 - 🌱 I’m currently learning everything
