@@ -39,7 +39,7 @@
 
 ## Soy un estudiante
 
-- 🔭 Actualmente cursando un curso de introducción a C#
+- 🔭 Currently taking an introductory C# course
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Get a job as developer
