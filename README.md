@@ -10,7 +10,7 @@ Nota: La metrica no indica mi nivel con los lenguajes de programación, simpleme
 
 ## Soy un estudiante
 
-- 🔭 Actualmente cursando un curso de introducción a C#
+- 🔭 Actualmente realizando el `#100DaysOfHomeLab` de [Techno Tim](https://twitter.com/TechnoTimLive)
 - 🌱 Busco aprender todo lo que pueda
 - 👯 Espero poder colaborar con otros creadores
 - 🥅 Metas para 2022: Conseguir un puesto como desarrollador
@@ -51,7 +51,7 @@ Note: This metric does not indicate my level with the programming languages, sim
 
 ## I'm an student
 
-- 🔭 Currently taking an introductory C# course
+- 🔭 Currently doing the `#100DaysOfHomeLab` from [Techno Tim](https://twitter.com/TechnoTimLive)
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Get a job as developer
