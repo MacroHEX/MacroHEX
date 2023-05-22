@@ -5,7 +5,6 @@ Desarrollador Front-end in the making...
 ## Acerca de Mí
 
 - Me llamo **Martin** y uso el nick de **MacroHEX**
-- Tengo 26 años y recién empece en este mundo hace un par de años pero nunca es tarde
 
 ## Actualmente estoy Aprendiendo
 
